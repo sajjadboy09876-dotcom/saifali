@@ -1,3 +1,6 @@
+abi hum na main branch ya chez likni ha 
+
+
 INIT =======> ya hidden folder create karta ha jis ma meta data aur vrsion control 
 .meta data hamara sara data hota ha aur version control ya hota ha jab bi hum kisi file ma chnags karta ha tu wo file is ka next version hoti ha aur wohi version control hoti ha  
 
@@ -18,3 +21,24 @@ COMMIT
 ya hota ha jab hum aik file ko upload karta ha git hub ma aur phir isi file ma chnages karta ha 
 tu aur commit karta ha tu github is file ka niya version bana leta ha isi ko commit kahta ha 
 means check points
+
+GIT LOG ya huma sari information da ga ka name email etc
+
+HEAD -> main means:
+
+"My HEAD is pointing to the main branch, so I'm currently on the main branch."
+
+
+
+The Two Main Uses of git checkout
+1. Switch Between Branches
+bash
+git checkout main
+# → Moves you to the main branch
+
+git checkout new-feature
+# → Moves you to the new-feature branch
+2. Go Back to Old Commits
+bash
+git checkout a3f2b8c
+# → Takes you back to an old commit (like time travel!)
