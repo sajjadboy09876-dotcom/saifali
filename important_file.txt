@@ -1,0 +1,12 @@
+INIT =======> ya hidden folder create karta ha jis ma meta data aur vrsion control 
+.meta data hamara sara data hota ha aur version control ya hota ha jab bi hum kisi file ma chnags karta ha tu wo file is ka next version hoti ha aur wohi version control hoti ha  
+
+aur ya huma siraf aik dafa har folder ka lia karna jis ko hum na github par save karna ha 
+
+
+
+TRACKING FILES & COMMIt
+
+git add. ya add kar da ga hamri sara folder ko 
+git add index.html agar hama spcific file ko add karna ha 
+
