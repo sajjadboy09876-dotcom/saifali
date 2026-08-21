@@ -3,6 +3,9 @@ INIT =======> ya hidden folder create karta ha jis ma meta data aur vrsion contr
 
 aur ya huma siraf aik dafa har folder ka lia karna jis ko hum na github par save karna ha 
 
+STATUS
+
+git status ya karta ha ka siraf bata ha hamara folder ya file agar ki save nahi ha github ma  
 
 
 TRACKING FILES & COMMIt
@@ -10,3 +13,8 @@ TRACKING FILES & COMMIt
 git add. ya add kar da ga hamri sara folder ko 
 git add index.html agar hama spcific file ko add karna ha 
 
+COMMIT
+
+ya hota ha jab hum aik file ko upload karta ha git hub ma aur phir isi file ma chnages karta ha 
+tu aur commit karta ha tu github is file ka niya version bana leta ha isi ko commit kahta ha 
+means check points
