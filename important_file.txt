@@ -41,7 +41,7 @@ HEAD -> main means:
 
 The Two Main Uses of git checkout
 1. Switch Between Branches
-bash
+
 git checkout main
 # → Moves you to the main branch
 
