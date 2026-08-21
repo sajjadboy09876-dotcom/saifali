@@ -1,5 +1,14 @@
 abi hum na main branch ya chez likni ha 
 
+Main
+main hamara pas github ma jab hum apna project upload karta ha tu wo main ha means hamara working main folder 
+
+Branches
+Branches hamara pas ya chez ha ka hum aona main project ma kuch features add karta ha aur ya chata ha ka wo project kharab bi na hu
+tu hum aik niya feature banya tu wo main ki niyi branch ban gai isi ko branch kahta ha 
+
+
+
 
 INIT =======> ya hidden folder create karta ha jis ma meta data aur vrsion control 
 .meta data hamara sara data hota ha aur version control ya hota ha jab bi hum kisi file ma chnags karta ha tu wo file is ka next version hoti ha aur wohi version control hoti ha  
